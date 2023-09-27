@@ -1,2 +1,6 @@
-# Medical-Image-Segmentation
-Implementing a U-Net architecture to Apply image segmentation into medical images to detect medical tools using a Kaggle dataset
+
+# Medical Image Segmentation using a U-Net
+
+
+
+In this project a try to implement a U-Net architecture from scratch to apply Image Segmentation on medical tools during surgical operations.
